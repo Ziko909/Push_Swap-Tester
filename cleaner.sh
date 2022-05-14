@@ -3,6 +3,6 @@
 # Date : 14/05/2022
 
 clean() {
-	rm -rf test_cases/*.txt
+	rm -rf test_cases
 }
 clean
