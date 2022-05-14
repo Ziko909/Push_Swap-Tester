@@ -7,7 +7,7 @@
 </div>
 
 ```
-git clone https://github.com/zikoziko01/Push_Swap-Tester.git ; cd Push_Swap-Tester.git ; ./script.sh
+git clone https://github.com/zikoziko01/Push_Swap-Tester.git ; cd Push_Swap-Tester ; ./script.sh
 ```
 ![Screenshot](Screen_Shot_1.png)
 
